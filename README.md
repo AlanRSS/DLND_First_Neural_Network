@@ -1,4 +1,4 @@
-# MLND_First_Neural_Network
+# DLND_First_Neural_Network
 
 This is a project of the Deep Learning Nanodegree, it is my first challenge into the world of building a neural network. The neural network was used to predict the bike rental ridership, and it has some graphs that display the accuracy of the neural network for predicting the case presented.
 
